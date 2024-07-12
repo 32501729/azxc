@@ -1,0 +1,209 @@
+[
+    {
+        "resto" : "Kiga",
+        "dishname":"Chandrakala Ice Cream Roll",
+        "price":"70Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Shahi Badam Ice Cream Roll",
+        "price":"70Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Rose Petals Ice Cream Roll",
+        "price":"70Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Keshar King Ice Cream Roll",
+        "price":"70Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Malai Kulfi",
+        "price":"40Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Gulkand Kulfi",
+        "price":"40Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Roasted Almond Kulfi",
+        "price":"40Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Vanilla Softy",
+        "price":"30Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Chocolate Softy",
+        "price":"30Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Mango Softy",
+        "price":"30Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Chocolate Dip Softy",
+        "price":"35Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Royal Rosier Softy",
+        "price":"40Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Madagascar Chocolate",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Cappuccino Brownie",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Dark Desire",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Sitafal",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Anjeer Badam",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"American Nuts",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Vanilla",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Red Velvet",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Black Current",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Lychee Cherry",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Cotton Candy",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Butter Scotch",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Musk Melon",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Honey Nut Crunsh",
+        "price":"N/A"
+    }
+    ,
+    {
+        "resto" : "Kiga",
+        "dishname":"StrawBerry",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Golden Modak",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Gulkand",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Delight Kulfi",
+        "price":"N/A"
+    }
+    ,
+    {
+        "resto" : "Kiga",
+        "dishname":"Butter N jelly",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Cassata",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Shahi Tukda",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Kesar Pista",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Guava",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Puran Poli",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Pani Puri",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Mango Colado",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Bubble Gum",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Royal Cream",
+        "price":"N/A"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Coconut Cream",
+        "price":"N/A"
+    }
+]
