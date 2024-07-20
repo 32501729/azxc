@@ -1,0 +1,238 @@
+[
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Paneer Tandoori Cheese Sandwich",
+        "price":"170Rs"
+    },
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Chicken Tandoori Cheese Sandwich",
+        "price":"190Rs"
+    },
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Chicken Garlic Cheese Sandwich",
+        "price":"190Rs"
+    },
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Cheese Chilly Toast Sandwich",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Corn Cheese Toast Sandwich",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Club Veg Sandwich",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Veg Aloo Cheese Gril Sandwich",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Bombay Masala Grill Sandwich",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Veg Cheese Grill Sandwich",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Chocolate Grill Sandwich",
+        "price":"110Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Cheese Chocolate Grill Sandwich",
+        "price":"130Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Lays Chilly Cheese Grill Sandwich",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Chilly Cheese Grill Sandwich",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Veg Schezwan Grill Sandwich",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Veg Cheese Grill Sandwich",
+        "price":"130Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Masala Cheese Grill Sandwich",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Corn Cheese Grill Sandwich",
+        "price":"150Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Corn Veg Cheese Grill Sandwich",
+        "price":"130Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Corn Masala Sandwich",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Nepoleon Cheese Grill Sandwich",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Nepoleon Paneer Cheese Sandwich",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Nepoleon Corn Cheese Sandwich",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Nepoleon Paneer + Corn Cheese Sandwich",
+        "price":"150Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Spl. Veg Cheese Melted Sandwich",
+        "price":"160Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Spl. Chilly Cheese Melted Sandwich",
+        "price":"170Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Spl. Panner  Cheese Melted Sandwich",
+        "price":"170Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Spl. Corn Cheese Melted Sandwich",
+        "price":"170Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"MJ Special Melted Sandwich",
+        "price":"190Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Veg Cheese Kulcha Sandwich",
+        "price":"160Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Cheese Kulcha Sandwich",
+        "price":"170Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Corn Cheese Kulcha Sandwich",
+        "price":"170Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer + Corn Kulcha Sandwich",
+        "price":"190Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Cheese Schezwan Kulcha Sandwich",
+        "price":"160Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Bread Butter Sandwich",
+        "price":"35Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Toast Butter Sandwich",
+        "price":"40Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Jam Butter Sandwich",
+        "price":"40Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Jam Toast Butter Sandwich",
+        "price":"45Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Veg Sandwich",
+        "price":"50Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Cheese Sandwich",
+        "price":"70Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Corn Sandwich",
+        "price":"70Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Mumbai Masala Sandwich",
+        "price":"80Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Cheese Mumbai Masala Sandwich",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Russian Sandwich",
+        "price":"80Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Club Sandwich",
+        "price":"90Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Omlete Sandwich",
+        "price":"80Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Egg Masala Sandwich",
+        "price":"80Rs"
+    },
+    {
+        "resto" : "Medical College Canteen",
+        "dishname":"Cheese Sandwich",
+        "price":"70Rs"
+    }
+
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "resto" : "Lassi Wassi",
+        "dishname":"Cold Coffee",
+        "price":"50Rs"
+    },
+    {
+        "resto" : "Lassi Wassi",
+        "dishname":"Chocolate Coffee",
+        "price":"80Rs"
+    },
+    {
+        "resto" : "Lassi Wassi",
+        "dishname":"Creamy Coffee",
+        "price":"80Rs"
+    },
+    {
+        "resto" : "Lassi Wassi",
+        "dishname":"Coffee On The Rocks",
+        "price":"80Rs"
+    },
+    {
+        "resto" : "Lassi Wassi",
+        "dishname":"Peanut Butter Coffee",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Lassi Wassi",
+        "dishname":"Choc Brownie Coffee",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Lassi Wassi",
+        "dishname":"Mud Coffee",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Signature Cold Coffee",
+        "price":"30Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Cold Coffee With Softy",
+        "price":"40Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Cold Coffee With Crush",
+        "price":"40Rs"
+    },
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Cold Coffee",
+        "price":"50Rs"
+    },
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Thick Cold Coffee",
+        "price":"50Rs"
+    },
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Classic Tiramisu Cold Coffee",
+        "price":"60Rs"
+    }
+]

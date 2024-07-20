@@ -1,0 +1,87 @@
+[
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Veg Burger",
+        "price":"60Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Veg Omlette Burger",
+        "price":"70Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Egg Omlette Burger",
+        "price":"70Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Chicken Burger",
+        "price":"80Rs"
+    },
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Veg Cheese Burger",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Cafe Momos",
+        "dishname":"Chicken Cheese Burger",
+        "price":"110Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Veg Burger",
+        "price":"80Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Veg Cheese Burger",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Schezwan Cheese Burger",
+        "price":"110Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Cheese Burger",
+        "price":"110Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Corn Cheese Burger",
+        "price":"110Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Double Pati Cheese Burger",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Double Cheese Burger",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Veg Cheese Burger",
+        "price":"90Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Shezwan Cheese Burger",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Garlic Chilli Burger",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Kiga",
+        "dishname":"Tandoori Moyo Burger",
+        "price":"130Rs"
+    }
+]

@@ -1,0 +1,187 @@
+[
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Veg Cheese Pizza Small",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Veg Cheese Pizza Big",
+        "price":"170Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Margherita Pizza Small",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Margherita Pizza Big",
+        "price":"180Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Corn Cheese Pizza Small",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Corn Cheese Pizza Big",
+        "price":"180Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Cheese Pizza Small",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Cheese Pizza Big",
+        "price":"190Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Corn Cheese Pizza Small",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Corn Cheese Pizza Big",
+        "price":"200Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Cheese Kulhad Pizza",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Corn Cheese Kulhad Pizza",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Cheese Kulhad Pizza",
+        "price":"130Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Special Kulhad Pizza",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Cheese Nachos Vala Pizza",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Corn Cheese Nachos Vala Pizza",
+        "price":"130Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Paneer Cheese Nachos Vala Pizza",
+        "price":"140Rs"
+    },
+    {
+        "resto" : "Amritsari Dhaba",
+        "dishname":"Special Nachos Vala Pizza",
+        "price":"160Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Plain Cheese Margherita Pizza",
+        "price":"79Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Cheese Chilly Pizza",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Onion Cheese Pizza",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Capsicum Cheese Pizza",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Corn Cheese Pizza",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Paneer Cheese Pizza",
+        "price":"130Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Veg Special Pizza",
+        "price":"130Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Paneer Tandoori Pizza",
+        "price":"160Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Paneer Peri Peri Pizza",
+        "price":"160Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Paneer Makhani Pizza",
+        "price":"170Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Paneer Spicy Chipotle Pizza",
+        "price":"180Rs"
+    },
+    {
+        "resto" : "Pizza Mood",
+        "dishname":"Paneer Barbeque Pizza",
+        "price":"180Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Veg Pizza",
+        "price":"100Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Cheese Pizza",
+        "price":"120Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Mushroom Pizza",
+        "price":"130Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Paneer Cheese Pizza",
+        "price":"150Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Pineapple Pizza",
+        "price":"150Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Apple Pizza",
+        "price":"160Rs"
+    },
+    {
+        "resto" : "Medical Canteen",
+        "dishname":"Dilkhush Pizza",
+        "price":"180Rs"
+    }
+]
